@@ -1,4 +1,4 @@
-// snakeGame.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// snakeGame.cpp : This file contains the 'main' function. Program execution begins an ends there.
 //
 #pragma warning(disable : 4996) // Disable warning C4996
 #include <iostream>
